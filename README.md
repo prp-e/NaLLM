@@ -82,3 +82,6 @@ and with the last modifier we've got this as a response:
 > A: Alpacas typically live for around 15 to 20 years, although some can live into their 20s.
 
 ### Adding variations
+
+Now in order to make our data more "human like", we ask ChatGPT to add variations to the questions. This happens like this:
+
