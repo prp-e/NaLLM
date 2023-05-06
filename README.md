@@ -67,4 +67,9 @@ ChatGPT's answer:
 > Q: What are some common uses of alpaca fiber?
 > A: Alpaca fiber is highly valued for its softness, warmth, and durability, and is used to make a variety of clothing and textiles, including sweaters, scarves, blankets, and rugs. It is also used to make luxury items such as high-end suits and coats.
 
-Here we have a problem and as you can see, it generated three question-answer pairs. We just can modify our topic-intent prompt to get a better and more coherent answer. 
+Here we have a problem and as you can see, it generated three question-answer pairs. We just can modify our topic-intent prompt to get a better and more coherent answer. Here is our new prompt:
+
+> topic: animals
+> intent: alpacas 
+> 
+> remember to generate only one question-answer pair.
