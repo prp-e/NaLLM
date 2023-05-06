@@ -89,27 +89,25 @@ Now in order to make our data more "human like", we ask ChatGPT to add variation
 
 ChatGPT will respond us like: 
 
->>>
-Sure, here are ten different ways to ask the same question and five different ways to write the same answer:
- 
-10 Different Ways to Ask "What is the lifespan of an alpaca?"
-
-1. How long do alpacas usually live?
-2. What is the average lifespan of an alpaca?
-3. What is the typical age range for alpacas?
-4. What is the life expectancy of an alpaca?
-5. How many years do alpacas usually live for?
-6. What is the usual lifespan of alpacas?
-7. At what age do alpacas usually pass away?
-8. How long can you expect an alpaca to live?
-9. What is the natural lifespan of an alpaca?
-10. What is the typical lifespan of domesticated alpacas?
-
-5 Different Ways to Answer "What is the lifespan of an alpaca?"
-
-1. Alpacas typically live for around 15 to 20 years, with some living into their 20s.
-2. The average lifespan of an alpaca is between 15 and 20 years, although this can vary.
-3. Alpacas generally have a lifespan of 15 to 20 years, but some can live longer.
-4. An alpaca's lifespan is typically around 15 to 20 years, but this can be influenced by factors such as genetics and environment.
-5. The natural lifespan of an alpaca is around 15 to 20 years, although with proper care, some can live into their 20s.
->>>
+> Sure, here are ten different ways to ask the same question and five different ways to write the same answer:
+>  
+> 10 Different Ways to Ask "What is the lifespan of an alpaca?"
+> 
+> 1. How long do alpacas usually live?
+> 2. What is the average lifespan of an alpaca?
+> 3. What is the typical age range for alpacas?
+> 4. What is the life expectancy of an alpaca?
+> 5. How many years do alpacas usually live for?
+> 6. What is the usual lifespan of alpacas?
+> 7. At what age do alpacas usually pass away?
+> 8. How long can you expect an alpaca to live?
+> 9. What is the natural lifespan of an alpaca?
+> 10. What is the typical lifespan of domesticated alpacas?
+>
+> 5 Different Ways to Answer "What is the lifespan of an alpaca?"
+> 
+> 1. Alpacas typically live for around 15 to 20 years, with some living into their 20s.
+> 2. The average lifespan of an alpaca is between 15 and 20 years, although this can vary.
+> 3. Alpacas generally have a lifespan of 15 to 20 years, but some can live longer.
+> 4. An alpaca's lifespan is typically around 15 to 20 years, but this can be influenced by factors such as genetics and environment.
+> 5. The natural lifespan of an alpaca is around 15 to 20 years, although with proper care, some can live into their 20s.
