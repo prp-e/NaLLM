@@ -32,3 +32,7 @@ As told you earlier, we still can utilize LLM's in our way. For this particular 
 2. Give our desired topics to the LLM and ask for _a question-answer pair_
 3. Ask the LLM to add variations. For example we can tell it _ask the question in 10 or 20 other ways_ and _re-write the answer in 15 other ways_. 
 4. We can ask it to JSON format the data for us.
+
+### Procedure explanation
+
+_NOTE: it may be changed in the future_
