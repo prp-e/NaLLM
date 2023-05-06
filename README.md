@@ -113,3 +113,5 @@ ChatGPT will respond us like:
 > 5. The natural lifespan of an alpaca is around 15 to 20 years, although with proper care, some can live into their 20s.
 
 That's basically what we need. The last thing we need is to ask it to _JSON format_ the damn thing for us.
+
+### JSON formatting
