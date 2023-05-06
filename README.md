@@ -89,8 +89,9 @@ Now in order to make our data more "human like", we ask ChatGPT to add variation
 
 ChatGPT will respond us like: 
 
-> Sure, here are ten different ways to ask the same question and five different ways to write the same answer:
-
+>>>
+Sure, here are ten different ways to ask the same question and five different ways to write the same answer:
+ 
 10 Different Ways to Ask "What is the lifespan of an alpaca?"
 
 1. How long do alpacas usually live?
@@ -111,4 +112,4 @@ ChatGPT will respond us like:
 3. Alpacas generally have a lifespan of 15 to 20 years, but some can live longer.
 4. An alpaca's lifespan is typically around 15 to 20 years, but this can be influenced by factors such as genetics and environment.
 5. The natural lifespan of an alpaca is around 15 to 20 years, although with proper care, some can live into their 20s.
-
+>>>
