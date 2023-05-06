@@ -85,3 +85,9 @@ and with the last modifier we've got this as a response:
 
 Now in order to make our data more "human like", we ask ChatGPT to add variations to the questions. This happens like this:
 
+> Ask the same question in 10 different ways, write the same answer in 5 different ways as well.
+
+ChatGPT will respond us like: 
+
+
+
