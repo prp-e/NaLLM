@@ -181,3 +181,5 @@ and it's not bad, but it's limited to only one answer. We required more answers,
 ```
 
 and as you can see, it works perfectly.
+
+## Required steps of the project
