@@ -125,3 +125,59 @@ Our prompt:
 > create a key called "patterns" and its value is an array of questions. 
 > create a key called "responses" and its value is an array of answers. 
 > create a key called "context_set" and its value is an empty string. 
+
+The first answer is:
+
+```json
+{
+  "tag": "alpacas",
+  "patterns": [
+    "What is the lifespan of an alpaca?",
+    "How long do alpacas usually live?",
+    "What is the average lifespan of an alpaca?",
+    "What is the typical age range for alpacas?",
+    "What is the life expectancy of an alpaca?",
+    "How many years do alpacas usually live for?",
+    "What is the usual lifespan of alpacas?",
+    "At what age do alpacas usually pass away?",
+    "How long can you expect an alpaca to live?",
+    "What is the natural lifespan of an alpaca?",
+    "What is the typical lifespan of domesticated alpacas?"
+  ],
+  "responses": [
+    "Alpacas typically live for around 15 to 20 years, although some can live into their 20s."
+  ],
+  "context_set": ""
+}
+```
+
+and it's not bad, but it's limited to only one answer. We required more answers, so we have to tell ChatGPT we need all of them. After that, the result is:
+
+```json
+{
+  "tag": "alpacas",
+  "patterns": [
+    "What is the lifespan of an alpaca?",
+    "How long do alpacas usually live?",
+    "What is the average lifespan of an alpaca?",
+    "What is the typical age range for alpacas?",
+    "What is the life expectancy of an alpaca?",
+    "How many years do alpacas usually live for?",
+    "What is the usual lifespan of alpacas?",
+    "At what age do alpacas usually pass away?",
+    "How long can you expect an alpaca to live?",
+    "What is the natural lifespan of an alpaca?",
+    "What is the typical lifespan of domesticated alpacas?"
+  ],
+  "responses": [
+    "Alpacas typically live for around 15 to 20 years, although some can live into their 20s.",
+    "The average lifespan of an alpaca is between 15 and 20 years, although this can vary.",
+    "Alpacas generally have a lifespan of 15 to 20 years, but some can live longer.",
+    "An alpaca's lifespan is typically around 15 to 20 years, but this can be influenced by factors such as genetics and environment.",
+    "The natural lifespan of an alpaca is around 15 to 20 years, although with proper care, some can live into their 20s."
+  ],
+  "context_set": ""
+}
+```
+
+and as you can see, it works perfectly.
