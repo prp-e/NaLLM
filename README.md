@@ -23,3 +23,5 @@ For using NaLLM, you only need to _make variations_ on your own knowledge base w
 That's it. You can train _NaLLM_ on every language supported by today's computers. It doesn't matter if it's English, German, Persian, Kurdish or Swahili! You just need to follow instructions in order to create a dataset and work with the architectures and models.
 
 ![NLLB](./nallm.png)
+
+## Using ChatGPT to create a _large enough_ dataset.
