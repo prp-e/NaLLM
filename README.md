@@ -11,3 +11,5 @@ The solution is to get back to the old ways of making a question-answering chatb
 ### No GPU is needed.
 
 The main _bottleneck_ of most of modern AI models is the GPU. Specially since most of these models are tuned to work on GPU's with CUDA support, if you don't own an NVIDIA system, you basically have no chance to test most of the brand new models. On the other hand, GPU's are quiet expensive. So using _NaLLM_ requires no GPU's and it can even be running on a Raspberry Pi with only 2 GB of RAM.
+
+### No big data is needed.
