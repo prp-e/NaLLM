@@ -36,3 +36,9 @@ As told you earlier, we still can utilize LLM's in our way. For this particular 
 ### Procedure explanation
 
 _NOTE: it may be changed in the future_
+
+Our prompt: 
+
+>> Hello ChatGPT. 
+>> This is the procedure you have to follow. 
+>> First, we give you a "topic" and then an "intent". Then, you have to generate a question-answer pair about the given topic and intent. Then, we will ask you to process that question-answer pair for us. Is it clear?
