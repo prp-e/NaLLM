@@ -117,3 +117,11 @@ That's basically what we need. The last thing we need is to ask it to _JSON form
 ### JSON formatting
 
 Probably this is the easiest part. The only part we need to take care about is the correct format of the dataset. Otherwise, it's just a matter of prompting.
+
+Our prompt:
+
+> Now create a json object from those questions and answers following these rules: 
+> create a key called "tag" and its value is the same as our "intent" 
+> create a key called "patterns" and its value is an array of questions. 
+> create a key called "responses" and its value is an array of answers. 
+> create a key called "context_set" and its value is an empty string. 
