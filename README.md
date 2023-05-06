@@ -17,3 +17,5 @@ The main _bottleneck_ of most of modern AI models is the GPU. Specially since mo
 In order to train LLM's you usually need tons of tokens. For example _Large Language Model Meta AI_ or _LLaMa_ has been trained on one trillion tokens. Even crawling this amount of data from the internet is impossible for individuals and requires hundreds (if not thousands) of servers. It may also need a lot of data cleanup, duplication removal, etc. 
 
 For using NaLLM, you only need to _make variations_ on your own knowledge base which is not a hard thing to do. The main task is to answer the questions in a way you think you're not faced by a machine and NaLLM does it well!
+
+### No languages left behind!
