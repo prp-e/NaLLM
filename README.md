@@ -19,3 +19,5 @@ In order to train LLM's you usually need tons of tokens. For example _Large Lang
 For using NaLLM, you only need to _make variations_ on your own knowledge base which is not a hard thing to do. The main task is to answer the questions in a way you think you're not faced by a machine and NaLLM does it well!
 
 ### No languages left behind!
+
+That's it. You can train _NaLLM_ on every language supported by today's computers. It doesn't matter if it's English, German, Persian, Kurdish or Swahili! You just need to follow instructions in order to create a dataset and work with the architectures and models.
