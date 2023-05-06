@@ -183,3 +183,9 @@ and it's not bad, but it's limited to only one answer. We required more answers,
 and as you can see, it works perfectly.
 
 ## Required steps of the project
+
+1. Having a test dataset of 250 _intents_. It's not hard to get our hands on one. It may require some automation though.
+2. Training a basic model.
+3. Having a bigger and better dataset (maybe with human generated content).
+4. Training larger models.
+5. Deploying a web-based interface.
