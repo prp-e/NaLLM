@@ -39,6 +39,10 @@ _NOTE: it may be changed in the future_
 
 Our prompt: 
 
->> Hello ChatGPT. 
->> This is the procedure you have to follow. 
->> First, we give you a "topic" and then an "intent". Then, you have to generate a question-answer pair about the given topic and intent. Then, we will ask you to process that question-answer pair for us. Is it clear?
+> Hello ChatGPT. 
+> This is the procedure you have to follow. 
+> First, we give you a "topic" and then an "intent". Then, you have to generate a question-answer pair about the given topic and intent. Then, we will ask you to process that question-answer pair for us. Is it clear?
+
+ChatGPT's answer: 
+
+> Yes, it's clear. Please provide me with the topic and intent so I can generate a question-answer pair.
