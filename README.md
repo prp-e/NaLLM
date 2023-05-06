@@ -25,3 +25,10 @@ That's it. You can train _NaLLM_ on every language supported by today's computer
 ![NLLB](./nallm.png)
 
 ## Using ChatGPT to create a _large enough_ dataset.
+
+As told you earlier, we still can utilize LLM's in our way. For this particular project we have this scenario:
+
+1. Explain the procedure to ChatGPT (depending on the circumstances, it can be different AI like OpenAssistant or GPT-3)
+2. Give our desired topics to the LLM and ask for _a question-answer pair_
+3. Ask the LLM to add variations. For example we can tell it _ask the question in 10 or 20 other ways_ and _re-write the answer in 15 other ways_. 
+4. We can ask it to JSON format the data for us.
