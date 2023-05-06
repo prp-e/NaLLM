@@ -115,3 +115,5 @@ ChatGPT will respond us like:
 That's basically what we need. The last thing we need is to ask it to _JSON format_ the damn thing for us.
 
 ### JSON formatting
+
+Probably this is the easiest part. The only part we need to take care about is the correct format of the dataset. Otherwise, it's just a matter of prompting.
