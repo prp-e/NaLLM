@@ -161,7 +161,125 @@
               "PHP is a server-side scripting language that is used to create dynamic web pages and web applications. It is highly versatile and can be used for a wide range of web development projects, from simple websites to complex web applications."
             ],
             "context_set": ""
+          },
+          {
+            "tag": "line-following",
+            "patterns": [
+              "What is line-following in robotics?",
+              "What is the concept of line-following in robotics?",
+              "Can you explain how line-following works in robotics?",
+              "How does a robot follow a line in line-following?",
+              "What is the purpose of line-following in robotics?",
+              "Could you provide an overview of line-following in robotics?",
+              "What are some examples of line-following applications in robotics?",
+              "How is line-following used in industrial automation?",
+              "Why is line-following an important area of research in robotics?",
+              "What are the challenges in implementing line-following in robotics?"
+            ],
+            "responses": [
+              "Line-following is a technique used in robotics where a robot follows a path that is marked by a contrasting line on a surface, such as a black line on a white surface or a white line on a black surface. This technique is often used in industrial automation and is also a popular area of research in robotics.",
+              "In line-following, a robot is equipped with sensors that detect the contrasting line on a surface, allowing it to follow the path of the line. This technique is widely used in industrial automation and has applications in fields such as transportation and logistics.",
+              "Line-following is an important concept in robotics that involves a robot following a pre-determined path by detecting a contrasting line on a surface. This technique has numerous applications in industrial automation and is a popular area of research in robotics.",
+              "Line-following is a technique in robotics where a robot follows a path that is marked by a contrasting line on a surface. This technique is widely used in industrial automation and has applications in fields such as manufacturing, logistics, and transportation.",
+              "In robotics, line-following is a technique where a robot follows a path marked by a contrasting line on a surface, typically with the help of sensors. This technique is widely used in industrial automation and has numerous applications in various fields."
+            ],
+            "context_set": ""
+          },
+          {
+            "tag": "arduino-1",
+            "patterns": [
+              "What is Arduino and how is it used in robotics?",
+              "What is the role of Arduino in robotics and how is it used?",
+              "How can Arduino be utilized in building robots for various applications?",
+              "Can you explain what Arduino is and how it is used in robotics?",
+              "What are the benefits of using Arduino in robotics?",
+              "How does Arduino simplify the process of building robots?",
+              "What kind of electronic devices can be created using Arduino for robotics?",
+              "How does the flexibility of Arduino contribute to its popularity in robotics?",
+              "What makes Arduino an ideal choice for robotics projects?",
+              "Could you provide examples of robots that are built using Arduino?",
+              "What are the advantages of using Arduino as compared to other electronics platforms for robotics?"
+            ],
+            "responses": [
+              "Arduino is an open-source electronics platform that allows users to easily create custom electronic devices. It is widely used in robotics due to its flexibility, ease of use, and low cost. With Arduino, users can build robots that can perform a wide range of tasks, such as sensing their environment, navigating through space, and interacting with humans.",
+              "In robotics, Arduino plays a critical role as an open-source electronics platform that enables users to build custom electronic devices with ease. Its flexibility and affordability make it a popular choice for building robots that can perform a variety of tasks.",
+              "Arduino is a versatile and user-friendly electronics platform that is widely used in robotics. With its low cost and easy-to-use software, it simplifies the process of building robots for various applications.",
+              "With its accessibility and flexibility, Arduino has become a go-to electronics platform for building robots in the field of robotics. Its features make it an ideal choice for both hobbyists and professionals who want to create custom electronic devices for their projects.",
+              "Arduino is a popular electronics platform in robotics due to its numerous benefits, such as ease of use, low cost, and flexibility. Its ability to sense, process, and act upon information from the environment makes it an ideal choice for building robots that can perform complex tasks."
+            ],
+            "context_set": ""
+          },
+          {
+            "tag": "arduino-2",
+            "patterns": [
+              "What are the basic components required to build a robot using Arduino?",
+              "What are the essential components needed to create a robot using Arduino?",
+              "What are the fundamental elements required for a robot project using Arduino?",
+              "Can you provide a list of necessary components to build a robot using Arduino?",
+              "What are the primary components used in building a robot with Arduino?",
+              "What are the basic building blocks for constructing a robot using Arduino?",
+              "What hardware is required for building a robot using Arduino?",
+              "What are the minimum components needed to build a functioning robot using Arduino?",
+              "How many components are typically required to build a robot using Arduino?",
+              "What is the minimum setup required to create a robot using Arduino?"
+            ],
+            "responses": [
+              "To build a robot using Arduino, you would typically need a microcontroller board (such as the Arduino Uno), a motor driver (to control the movement of the robot), sensors (such as ultrasonic sensors or infrared sensors to detect objects in the environment), and actuators (such as servos or motors to manipulate objects or move the robot).",
+              "The basic components needed to create a robot using Arduino include a microcontroller board (such as the Arduino Uno), a motor driver, sensors to detect objects, and actuators to manipulate objects or move the robot.",
+              "To build a robot using Arduino, you would need a few essential components, including a microcontroller board (such as the Arduino Uno), a motor driver, sensors to detect objects in the environment, and actuators (such as servos or motors for manipulating objects or moving the robot).",
+              "The primary components used in building a robot with Arduino typically include a microcontroller board (such as the Arduino Uno), a motor driver for controlling the movement of the robot, sensors to detect the environment (such as ultrasonic sensors or infrared sensors), and actuators (such as servos or motors for manipulating objects or moving the robot).",
+              "To create a robot using Arduino, you need a microcontroller board (such as the Arduino Uno), a motor driver to control the movement of the robot, sensors to detect the environment (such as ultrasonic sensors or infrared sensors), and actuators (such as servos or motors for manipulating objects or moving the robot)."
+            ],
+            "context_set": ""
+          },
+          {
+            "tag": "arduino-3",
+            "patterns": [
+              "What is an Arduino robot shield?",
+              "Can you explain what an Arduino robot shield is?",
+              "How does an Arduino robot shield work?",
+              "What are the features of an Arduino robot shield?",
+              "What is the purpose of an Arduino robot shield?",
+              "What kind of components are included in an Arduino robot shield?",
+              "Why is an Arduino robot shield useful for building robots?",
+              "What are the benefits of using an Arduino robot shield?",
+              "What role does an Arduino robot shield play in robotics projects?",
+              "What does an Arduino robot shield do?"
+            ],
+            "responses": [
+              "An Arduino robot shield is an add-on board that can be connected to an Arduino microcontroller board to provide additional features and functionality for building robots. It typically includes motor drivers, sensors, and other components that are commonly used in robotics projects.",
+              "When building a robot using an Arduino microcontroller board, an Arduino robot shield can be added to the project to provide additional features and components, such as motor drivers and sensors.",
+              "An Arduino robot shield is a hardware extension board that can be used with an Arduino microcontroller to provide additional features and functionality for robotics projects, such as motor drivers and sensors.",
+              "The purpose of an Arduino robot shield is to provide additional features and functionality to an Arduino microcontroller board when building a robot. It typically includes motor drivers, sensors, and other common components used in robotics projects.",
+              "An Arduino robot shield is useful for building robots because it provides additional features and functionality that can be added to an Arduino microcontroller board, such as motor drivers and sensors.",
+            ],
+            "context_set": ""
+          },
+          {
+            "tag": "arduino-4",
+            "patterns": [
+              "How do you control a robot using an Arduino board?",
+              "What is the process for controlling a robot with an Arduino board?",
+              "How can I use an Arduino board to control a robot?",
+              "What steps are involved in programming an Arduino board to control a robot?",
+              "What kind of components are needed to control a robot with an Arduino board?",
+              "Can you explain how an Arduino board is used to control a robot?",
+              "What are the basics of controlling a robot with an Arduino board?",
+              "How does programming an Arduino board allow for robot control?",
+              "Which programming language is used for controlling a robot with an Arduino board?",
+              "How do sensors and other components work with an Arduino board to control a robot?"
+            ],
+            "responses": [
+              "To control a robot using an Arduino board, you first need to program the board using Arduino programming language. Once the code is uploaded to the board, it can interact with sensors and other components to control the robot's movements and actions. The specific method of control will depend on the design of the robot and the components used, but some common methods include using motor drivers, servos, and sensors.",
+              "By programming an Arduino board with the appropriate code, it can be used to control a robot's movements and actions. The robot's specific design and components used will dictate the method of control, but common methods include using motor drivers, servos, and sensors.",
+              "To control a robot with an Arduino board, you need to program the board using Arduino programming language. Once programmed, the board interacts with the robot's sensors and other components to enable control over its movements and actions. The exact method of control will depend on the robot's design and components used.",
+              "An Arduino board can be used to control a robot's movements and actions by programming it with the appropriate code. The board interacts with sensors and other components to enable control over the robot's actions. Methods of control can include motor drivers, servos, and sensors, depending on the robot's specific design and components used.",
+              "Programming an Arduino board is essential to control a robot's movements and actions. The board interacts with sensors and other components to enable the control of the robot. The specific method of control will depend on the robot's design and components used."
+            ],
+            "context_set": ""
           }
-
+                            
+        
+          
     ]
 }
