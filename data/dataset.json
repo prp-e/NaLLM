@@ -91,6 +91,77 @@
               "The purpose of front-end development is to create the user interface of a website or application using languages like HTML, CSS, and JavaScript. The goal is to create a visually appealing and intuitive interface that users can interact with."
             ],
             "context_set": ""
-          },          
+          },
+          {
+            "tag": "front-end-2",
+            "patterns": [
+              "What are some common front-end development tools and frameworks?",
+              "Can you list some of the popular front-end development tools and frameworks?",
+              "What are the most commonly used tools and frameworks in front-end development?",
+              "Which tools and frameworks should I learn for front-end development?",
+              "What are the essential tools and frameworks for front-end developers?",
+              "Which front-end development frameworks and libraries are currently in demand?",
+              "What are the most popular front-end development tools and frameworks?",
+              "Which front-end development tools and frameworks do you recommend for beginners?",
+              "What are some of the tools and frameworks that professional front-end developers use?",
+              "Which front-end development tools and frameworks are best for building responsive user interfaces?"
+            ],
+            "responses": [
+              "Front-end development commonly involves the use of tools and frameworks such as HTML, CSS, JavaScript, Bootstrap, React, Angular, Vue, and jQuery. These tools and frameworks help developers create responsive, dynamic, and visually appealing user interfaces for websites and applications.",
+              "Popular front-end development tools and frameworks include HTML, CSS, JavaScript, Bootstrap, React, Angular, Vue, and jQuery. These tools and frameworks are used to create user interfaces that are visually appealing, responsive, and easy to use.",
+              "Front-end development is typically done using tools and frameworks like HTML, CSS, JavaScript, Bootstrap, React, Angular, Vue, and jQuery. These tools and frameworks help developers create user interfaces that are both visually appealing and functional.",
+              "The most commonly used front-end development tools and frameworks include HTML, CSS, JavaScript, Bootstrap, React, Angular, Vue, and jQuery. These tools and frameworks allow developers to create responsive, dynamic, and visually appealing user interfaces for websites and applications.",
+              "Front-end development often involves the use of tools and frameworks such as HTML, CSS, JavaScript, Bootstrap, React, Angular, Vue, and jQuery. These tools and frameworks help developers create user interfaces that are intuitive, aesthetically pleasing, and responsive to user input."
+            ],
+            "context_set": ""
+          },
+          {
+            "tag": "ruby on rails",
+            "patterns": [
+              "What is Ruby on Rails and how does it work?",
+              "Could you explain the concept of Ruby on Rails?",
+              "What is the purpose of Ruby on Rails?",
+              "How does Ruby on Rails simplify web development?",
+              "What are the benefits of using Ruby on Rails?",
+              "What makes Ruby on Rails different from other web development frameworks?",
+              "Can you provide an overview of Ruby on Rails?",
+              "What are the core features of Ruby on Rails?",
+              "Why do developers choose to use Ruby on Rails?",
+              "How has Ruby on Rails impacted web development?"
+            ],
+            "responses": [
+              "Ruby on Rails is a web development framework written in the Ruby programming language. It is designed to help developers create web applications quickly and efficiently by providing a set of conventions and abstractions that simplify common web development tasks. Ruby on Rails emphasizes the use of agile development principles and promotes the use of best practices such as test-driven development and behavior-driven development.",
+              "Ruby on Rails is a popular web development framework that provides a set of tools and conventions designed to help developers create web applications quickly and easily. It is built using the Ruby programming language and promotes the use of best practices such as test-driven development and behavior-driven development.",
+              "Ruby on Rails is a web development framework that emphasizes convention over configuration, using the Ruby programming language to provide a set of tools and abstractions that simplify common web development tasks. It is designed to help developers create web applications quickly and efficiently, while promoting the use of best practices such as test-driven development and behavior-driven development.",
+              "Ruby on Rails is a web development framework that provides developers with a set of conventions and abstractions that simplify common web development tasks. It is built using the Ruby programming language and promotes the use of best practices such as test-driven development and behavior-driven development to help developers create web applications quickly and efficiently.",
+              "Ruby on Rails is a web development framework that is built on the Ruby programming language. It is designed to help developers create web applications quickly and easily, using a set of conventions and abstractions that simplify common web development tasks. Ruby on Rails also emphasizes the use of best practices such as test-driven development and behavior-driven development to ensure the quality of the code."
+            ],
+            "context_set": ""
+          },
+          {
+            "tag": "php",
+            "patterns": [
+              "What is PHP and what is it used for?",
+              "What is PHP and what are its main uses?",
+              "Can you provide an overview of PHP and its purpose?",
+              "How is PHP used in web development?",
+              "What are the benefits of using PHP in web development?",
+              "Could you explain the concept of PHP and its applications?",
+              "What are the features of PHP and how are they utilized?",
+              "Why is PHP a popular choice for web development?",
+              "What kinds of web projects are best suited for PHP?",
+              "How does PHP compare to other server-side scripting languages?",
+              "What are some examples of web applications created using PHP?"
+            ],
+            "responses": [
+              "PHP is a server-side scripting language that is used primarily for web development. It is open source and runs on a variety of platforms, including Windows, Linux, and macOS. PHP is particularly well-suited for creating dynamic web pages and web applications, such as content management systems, e-commerce platforms, and social networking sites.",
+              "PHP is a programming language that is specifically designed for creating dynamic web pages and web applications. It is used in a variety of web development projects, including content management systems, e-commerce platforms, and social networking sites.",
+              "PHP is a popular scripting language that is used primarily for web development. It is open source and widely supported, making it an ideal choice for developing dynamic web pages and web applications. It is particularly well-suited for creating e-commerce platforms, content management systems, and social networking sites.",
+              "PHP is a server-side scripting language that is widely used in web development due to its versatility and ease of use. It can be used to create a wide range of web applications, from simple websites to complex web portals and e-commerce platforms.",
+              "PHP is a server-side scripting language that is used to create dynamic web pages and web applications. It is highly versatile and can be used for a wide range of web development projects, from simple websites to complex web applications."
+            ],
+            "context_set": ""
+          }
+
     ]
 }
