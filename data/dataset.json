@@ -251,7 +251,7 @@
               "When building a robot using an Arduino microcontroller board, an Arduino robot shield can be added to the project to provide additional features and components, such as motor drivers and sensors.",
               "An Arduino robot shield is a hardware extension board that can be used with an Arduino microcontroller to provide additional features and functionality for robotics projects, such as motor drivers and sensors.",
               "The purpose of an Arduino robot shield is to provide additional features and functionality to an Arduino microcontroller board when building a robot. It typically includes motor drivers, sensors, and other common components used in robotics projects.",
-              "An Arduino robot shield is useful for building robots because it provides additional features and functionality that can be added to an Arduino microcontroller board, such as motor drivers and sensors.",
+              "An Arduino robot shield is useful for building robots because it provides additional features and functionality that can be added to an Arduino microcontroller board, such as motor drivers and sensors."
             ],
             "context_set": ""
           },
